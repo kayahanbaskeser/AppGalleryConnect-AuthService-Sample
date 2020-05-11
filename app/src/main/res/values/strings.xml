@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AuthServiceSample</string>
+    <string name="btn_huawei">Login w/ Huawei Account</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">Logout</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_Anonymously">Login w/ Anonymous Account</string>
+</resources>
